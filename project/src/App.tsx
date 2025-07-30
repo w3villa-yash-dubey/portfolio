@@ -531,7 +531,7 @@ function App() {
             </a>
           </div>
           <p className="text-gray-400">
-            © 2024 Yash Dubey. Designed & Developed with ❤️ using React & Tailwind CSS
+            © 2025 Yash Dubey. Designed & Developed with using React & Tailwind CSS
           </p>
         </div>
       </footer>
